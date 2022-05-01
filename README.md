@@ -3,4 +3,4 @@ This repository contains the projects I have worked upon to get key insights fro
 
 Projects:
 
-[Sale_Data_Analysis Report](https://github.com/kanika1509/Data_Analysis_Projects/tree/main/Sales_Data_Analysis-Using%20PowerBi)
+[Sales_Data_Analysis Report](https://github.com/kanika1509/Data_Analysis_Projects/tree/main/Sales_Data_Analysis-Using%20PowerBi)
